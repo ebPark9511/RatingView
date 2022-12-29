@@ -9,8 +9,8 @@ A simple drag-and-drop score view.
 ![스크린샷 2021-08-30 오후 10 28 48](https://user-images.githubusercontent.com/33455020/131348782-770cfcd6-2c7b-4a9c-b9c3-ea20dc5cb685.png)
 
 1) Add `UIView` where you want to use it.
-2) Click 'UIView' and change 'Custom Class' to 'RatingView' in the Attributes Inspector.
-3) Specify the 'User defined runtime attributes' of the Attributes Inspector as required.
+2) Click `UIView` and change `Custom Class` to `RatingView` in the Attributes Inspector.
+3) Specify the `User defined runtime attributes` of the Attributes Inspector as required.
 
 
 ```Swift
